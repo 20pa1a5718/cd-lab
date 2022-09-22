@@ -187,9 +187,7 @@ x--;
 }
 
 }
-DIRECTED ACYCLIC GRAPH
-0->3;
-0->4;
+
 void fright(int x)
 
 {
